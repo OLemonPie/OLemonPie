@@ -9,6 +9,12 @@
 - 📫 How to reach me: Na internet eu prefiro usar o codinome LemonPie, você pode me achar no twitter ou no instagram pelo @OLemonPie, porém não uso muito o instagram pois o utilizo como portfolio artístico
 - 😄 Pronouns: ele/dele
 
+  <div>
+
+    <a href="https://www.linkedin.com/in/gustavo-fernandes-b92a22288/"><img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+" target="_blank"></a>
+  </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olemonpie&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
